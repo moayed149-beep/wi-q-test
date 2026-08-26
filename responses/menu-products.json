@@ -1,0 +1,31 @@
+{
+	"data": [{
+			"id": 1,
+			"name": "Large Pizza"
+		},
+		{
+			"id": 2,
+			"name": "Medium Pizza"
+		},
+		{
+			"id": 3,
+			"name": "Burger"
+		},
+		{
+			"id": 4,
+			"name": "Chips"
+		},
+		{
+			"id": 5,
+			"name": "Soup"
+		},
+		{
+			"id": 6,
+			"name": "Salad"
+		},
+		{
+			"id": 84,
+			"name": "Chpis"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"name": "Starters"
+		},
+		{
+			"id": 2,
+			"name": "Mains"
+		},
+		{
+			"id": 3,
+			"name": "Takeaway"
+		},
+		{
+			"id": 4,
+			"name": "Delivery"
+		},
+		{
+			"id": 5,
+			"name": "Desserts"
+		}
+	]
+}
